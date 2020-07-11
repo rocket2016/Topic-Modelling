@@ -1,0 +1,5 @@
+Об'єкт затрат (англ. Cost Object) — основний «вихідний продукт» (результат) процесу в процесно-орієнтованому обліку витрат (АВС). Об'єктом затрат може бути продукт, процес, послуга, подія.
+
+Джерела
+Volker Schultz: Basiswissen Rechnungswesen. Deutscher Taschenbuchverlag, München 2011, ISBN 978-3-423-50815-5.
+Klaus Olfert: Kostenrechnung. 17. Auflage. NWB Verlag, Herne 2013, ISBN 978-3-470-51107-8.

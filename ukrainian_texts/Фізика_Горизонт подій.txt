@@ -1,0 +1,14 @@
+Горизонт подій (англ. event horizon) — уявна гіперповерхня в просторі-часі, яка відділяє ті точки простору-часу, звідки світло може потрапити до спостерігача, від тих, звідки світло потрапити до спостерігача не може.
+Горизонт подій виникає навколо чорних дір, для яких друга космічна швидкість перевищує швидкість світла.
+Жодна подія за горизонтом подій не може вплинути на спостерігача, оскільки такий вплив означав би порушення принципу причинності. З точки зору зовнішнього спостерігача будь-яке тіло наближатиметься до горизонту подій нескінченно довго.
+
+Див. також
+Гравітаційний радіус
+
+Джерела
+S. W. Hawking and G. F. R. Ellis (1975). The large scale structure of space-time. Cambridge University Press.
+Thorne, Kip S.; Misner, Charles; Wheeler, John (1973). Gravitation. W. H. Freeman and Company.
+Wald, Robert M. (1984). General Relativity. Chicago: University of Chicago Press.
+J. A. Peacock (1999). Cosmological Physics. Cambridge University Press.
+Stephen W. Hawking On The Shoulders of Giants. The Great Works of Physics and Astronomy, (Running Press 2002) ISBN 0-7624-1698-X
+Stephen W. Hawking A Briefer History of Time, (Bantam Books 2005) ISBN 0-553-80436-7

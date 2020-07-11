@@ -1,0 +1,10 @@
+Ефект Франца-Келдиша — явище зміни поглинання світла напівпровідником в електричному полі, зокрема появи поглинання на частотах, менших від ширини забороненої зони напівпровідника.
+Пояснення ефекта в тому, що в електричному полі хвильові функції квазічастинок не описуються більше плоскими хвилями, а функціями Ейрі і для них існує класично недоступна область простору. Хвости функцій Ейрі для електронів та дірок у класично недоступній області можуть перекриватися навіть для станів з різницею енергій, меншою від ширини забороненої зони.  
+Явище назване на честь німецького фізика Волтера Франца та російського фізика Леоніда Келдиша, які відкрили його в 1957-1958 роках.
+
+Література
+W. Franz, Einfluß eines elektrischen Feldes auf eine optische Absorptionskante, Z. Naturforschung 13a (1958) 484–489.
+L. V. Keldysh, Behaviour of Non-Metallic Crystals in Strong Electric Fields, J. Exptl. Theoret. Phys. (USSR) 33 (1957) 994–1003, translation: Soviet Physics JETP 6 (1958) 763–770.
+L. V. Keldysh, Ionization in the Field of a Strong Electromagnetic Wave, J. Exptl. Theoret. Phys. (USSR) 47 (1964) 1945–1957, translation: Soviet Physics JETP 20 (1965) 1307–1314.
+R. Williams, Electric Field Induced Light Absorption in CdS, Phys. Rev. 117 (1960) 1487–1490.
+J. I. Pankove, Optical Processes in Semiconductors, Dover Publications Inc. New York (1971).

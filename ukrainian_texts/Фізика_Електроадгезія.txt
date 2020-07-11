@@ -1,0 +1,17 @@
+Електроадгезія — зчеплення різних тіл під впливом зовнішнього електростатичного поля. Сам ефект зчеплення має назву ефект електроадгезії.
+Перші електроадгезійні з'єднання були отримані практично одночасно в СРСР і США у другій половині 20 століття. Електроадгезійні з'єднання використовуються нині при виготовленні самих транзисторів, світлодіодів, елементів сонячних батарей, лазерних гіроскопів.
+За оберненістю електроадгезійні з'єднання поділяються на три види:
+
+обернені (зчеплення зникає після зняття ЗЕП);
+напівобернені (зчеплення зберігається протягом деякого часу після зняття ЗЕП - іноді від декількох хвилин до декількох днів);
+необернені, що зберігаються десятиліттями після припинення дії ЗЕП. Причому міцність зчеплення (адгезійна міцність) в останньому випадку досягає 10-17 Мпа.
+
+Література
+Monkman. G.J., S. Hesse, R. Steinmann & H. Schunk – Robot Grippers - Wiley, Berlin 2007.
+Hesse. S, G.J. Monkman, R. Steinmann & H. Schunk - Robotergreifer - Hanser, München 2004.
+Monkman. G.J,. - 24:1 - Electroadhesive Microgrippers - Assembly Automation - Vol 24, No. 1, pp 326–330 - MCB University Press,  October 2003.
+Monkman. G.J. - Workpiece Retention during Machine Processing - Assembly Automation - Vol 20, issue 4, MCB University Press, 2000.
+Monkman. G.J. - An analysis of astrictive prehension - International Journal of Robotics Research  - Vol 16, No. 1 - February 1997.
+Monkman. G.J. - Robot Grippers for use with Fibrous Materials - International Journal of Robotics Research - Vol 14, No. 2, pp. 144–151 - April 1995.
+Monkman. G.J. ‑ Compliant Robotic Devices and Electroadhesion ‑ Robotica ‑ Volume 10, pp. 183‑185, February 1992.
+Monkman. G.J., P.M. Taylor & G.J. Farnworth ‑ Principles of Electroadhesion in Clothing Technology ‑ International Journal of Clothing Science & Technology, vol 1 , No. 3, pp. 14‑20. ‑ MCB University Press, 1989.
